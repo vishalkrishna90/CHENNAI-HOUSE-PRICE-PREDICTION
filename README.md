@@ -5,6 +5,20 @@ This is a Chennai House Price Prediction project in which I tried to build Machi
 [Go The Web App](https://chennaihousepricepredict.herokuapp.com/)
 
 ![Chennai House](https://github.com/vishalkrishna90/CHENNAI-HOUSE-PRICE-PREDICTION/blob/main/Images/Chennai_img_1.jpg)
+
+**Author = Vishal Kumar Mridha**
+
+**Domain = Real Estate**
+
+**Level = Intermediate**
+
+**Accuracy Score = 99%>**
+
+**Project Type = End To End Project**
+
+![User Libraries](https://github.com/vishalkrishna90/CHENNAI-HOUSE-PRICE-PREDICTION/blob/main/Images/li_im.jpg)
+
+
 ## Process Followed To Complite This Project
 - Problem Statement
 - Data Collection 
@@ -282,6 +296,8 @@ In the end, I deployed the model on Heroku, so that anybody can use the web app
 
 ![Chennai House Price Precictin](https://github.com/vishalkrishna90/CHENNAI-HOUSE-PRICE-PREDICTION/blob/main/Images/Web_App_img.png)
 ## Deployment Requirement Tools 
+
+![Deploy](https://github.com/vishalkrishna90/CHENNAI-HOUSE-PRICE-PREDICTION/blob/main/Images/st_im.png)
 
  - [Streamlit](https://streamlit.io/)
  - [Github Account](https://github.com/)
